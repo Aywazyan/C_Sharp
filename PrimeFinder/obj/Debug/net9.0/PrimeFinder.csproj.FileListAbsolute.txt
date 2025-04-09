@@ -1,0 +1,14 @@
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/bin/Debug/net9.0/PrimeFinder
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/bin/Debug/net9.0/PrimeFinder.deps.json
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/bin/Debug/net9.0/PrimeFinder.runtimeconfig.json
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/bin/Debug/net9.0/PrimeFinder.dll
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/bin/Debug/net9.0/PrimeFinder.pdb
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/obj/Debug/net9.0/PrimeFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/obj/Debug/net9.0/PrimeFinder.AssemblyInfoInputs.cache
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/obj/Debug/net9.0/PrimeFinder.AssemblyInfo.cs
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/obj/Debug/net9.0/PrimeFinder.csproj.CoreCompileInputs.cache
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/obj/Debug/net9.0/PrimeFinder.dll
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/obj/Debug/net9.0/refint/PrimeFinder.dll
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/obj/Debug/net9.0/PrimeFinder.pdb
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/obj/Debug/net9.0/PrimeFinder.genruntimeconfig.cache
+/Users/erikayvazyan/Desktop/C_Sharp/PrimeFinder/obj/Debug/net9.0/ref/PrimeFinder.dll
