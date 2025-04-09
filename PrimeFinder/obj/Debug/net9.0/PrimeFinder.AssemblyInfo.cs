@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+450caad8c1ae548c986c709eb6f203d87fbcf091")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b2772df1c0eea669e8bc557509fee211b0dfa6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeFinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
