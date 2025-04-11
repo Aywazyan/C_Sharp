@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFinder", "PrimeFinder\PrimeFinder.csproj", "{E7E5AF67-6E40-4032-B142-B374009A734B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{1AF35622-9EF4-405B-AFE0-F80352153936}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{E7E5AF67-6E40-4032-B142-B374009A734B}.Release|x64.Build.0 = Release|Any CPU
 		{E7E5AF67-6E40-4032-B142-B374009A734B}.Release|x86.ActiveCfg = Release|Any CPU
 		{E7E5AF67-6E40-4032-B142-B374009A734B}.Release|x86.Build.0 = Release|Any CPU
+		{1AF35622-9EF4-405B-AFE0-F80352153936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF35622-9EF4-405B-AFE0-F80352153936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF35622-9EF4-405B-AFE0-F80352153936}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1AF35622-9EF4-405B-AFE0-F80352153936}.Debug|x64.Build.0 = Debug|Any CPU
+		{1AF35622-9EF4-405B-AFE0-F80352153936}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1AF35622-9EF4-405B-AFE0-F80352153936}.Debug|x86.Build.0 = Debug|Any CPU
+		{1AF35622-9EF4-405B-AFE0-F80352153936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF35622-9EF4-405B-AFE0-F80352153936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF35622-9EF4-405B-AFE0-F80352153936}.Release|x64.ActiveCfg = Release|Any CPU
+		{1AF35622-9EF4-405B-AFE0-F80352153936}.Release|x64.Build.0 = Release|Any CPU
+		{1AF35622-9EF4-405B-AFE0-F80352153936}.Release|x86.ActiveCfg = Release|Any CPU
+		{1AF35622-9EF4-405B-AFE0-F80352153936}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
