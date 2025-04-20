@@ -1,6 +1,6 @@
 ﻿// 
 
-int[] massiv = new int[0];
+int[] massiv = new int[] { 1 };
 
 void add(int x)
 {
@@ -8,7 +8,6 @@ void add(int x)
     for (int c = 0; c < massiv.Length; c++) // patchenum enq hin array nori mej
     {
         newArr[c] = massiv[c];
-
     }
     newArr[newArr.Length - 1] = x; // nor array i verjum avelacnum enq X -y
     massiv = newArr; // poxarinum enq hin array norov

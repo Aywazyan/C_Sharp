@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dzaynavor", "Dzaynavor\Dzay
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DjvarBan", "DjvarBan\DjvarBan.csproj", "{12E7F634-0AAB-412D-A85D-7BAF3945C7D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayHard", "ArrayHard\ArrayHard.csproj", "{3D350035-52BB-4E13-8B5E-7757D317CC6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,6 +141,18 @@ Global
 		{12E7F634-0AAB-412D-A85D-7BAF3945C7D7}.Release|x64.Build.0 = Release|Any CPU
 		{12E7F634-0AAB-412D-A85D-7BAF3945C7D7}.Release|x86.ActiveCfg = Release|Any CPU
 		{12E7F634-0AAB-412D-A85D-7BAF3945C7D7}.Release|x86.Build.0 = Release|Any CPU
+		{3D350035-52BB-4E13-8B5E-7757D317CC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D350035-52BB-4E13-8B5E-7757D317CC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D350035-52BB-4E13-8B5E-7757D317CC6B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3D350035-52BB-4E13-8B5E-7757D317CC6B}.Debug|x64.Build.0 = Debug|Any CPU
+		{3D350035-52BB-4E13-8B5E-7757D317CC6B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3D350035-52BB-4E13-8B5E-7757D317CC6B}.Debug|x86.Build.0 = Debug|Any CPU
+		{3D350035-52BB-4E13-8B5E-7757D317CC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D350035-52BB-4E13-8B5E-7757D317CC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D350035-52BB-4E13-8B5E-7757D317CC6B}.Release|x64.ActiveCfg = Release|Any CPU
+		{3D350035-52BB-4E13-8B5E-7757D317CC6B}.Release|x64.Build.0 = Release|Any CPU
+		{3D350035-52BB-4E13-8B5E-7757D317CC6B}.Release|x86.ActiveCfg = Release|Any CPU
+		{3D350035-52BB-4E13-8B5E-7757D317CC6B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
